@@ -17,13 +17,15 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-73-10b981?style=classic)
-[![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-design-md?label=Last%20update&style=classic)](https://github.com/VoltAgent/awesome-design-md)
+[![Last Update](https://img.shields.io/github/last-commit/shangtianqiang/design-template-gallery?label=Last%20update&style=classic)](https://github.com/shangtianqiang/design-template-gallery)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 
 </div>
 </div>
 
 # Awesome DESIGN.md
+
+**[>>> Open Design Template Gallery <<<](https://shangtianqiang.github.io/design-template-gallery/)**
 
 Copy a DESIGN.md into your project, tell your AI agent "build me a page that looks like this" and get pixel-perfect UI that actually matches.
 
