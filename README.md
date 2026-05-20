@@ -1,8 +1,34 @@
-# Design Template Gallery
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" width="100%" style="background: linear-gradient(180deg, #cfe7ff 0%, #ffffff 100%); padding: 96px 60px; border: none;">
+        <h1 style="color: #171717; margin: 0; font-size: 64px; font-weight: 600; letter-spacing: -1.92px; line-height: 1.05; font-family: 'Inter', -apple-system, system-ui, sans-serif;">Design Template Gallery</h1>
+        <p style="color: #60646c; margin: 16px 0 0 0; font-size: 16px; font-weight: 400; line-height: 1.50; font-family: 'Inter', -apple-system, system-ui, sans-serif;">71+ 精选网站设计模板 · 可视化浏览 · 一键复制</p>
+        <p style="margin: 32px 0 0 0;">
+          <a href="https://shangtianqiang.github.io/design-template-gallery/" style="display: inline-block; background: #000000; color: #ffffff; padding: 10px 18px; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 500; line-height: 1.0; font-family: 'Inter', -apple-system, system-ui, sans-serif;">Open Gallery</a>
+          <a href="https://github.com/shangtianqiang/design-template-gallery" style="display: inline-block; background: #ffffff; color: #171717; padding: 10px 18px; border-radius: 8px; border: 1px solid #dcdee0; text-decoration: none; font-size: 14px; font-weight: 500; line-height: 1.0; margin-left: 12px; font-family: 'Inter', -apple-system, system-ui, sans-serif;">View on GitHub</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-一个可视化的设计模板画廊，基于 [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) 项目提供的 DESIGN.md 文件构建。
+<br />
+
+<div align="center">
+  <strong>可视化的设计模板画廊，浏览和预览 71+ 精选网站设计系统</strong>
+  <br />
+  <br />
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Templates](https://img.shields.io/badge/模板数量-71-10b981?style=classic) ![Tech Stack](https://img.shields.io/badge/Tech-HTML%2FCSS%2FJS-61dafb?style=classic) [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-24292e?style=classic&logo=github)](https://shangtianqiang.github.io/design-template-gallery/) [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=classic)](LICENSE)
 
 **[>>> 打开画廊 <<<](https://shangtianqiang.github.io/design-template-gallery/)**
+
+</div>
+
+---
+
+一个可视化的设计模板画廊，基于 [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) 项目提供的 DESIGN.md 文件构建。
 
 ## 项目简介
 
@@ -27,41 +53,17 @@
 
 画廊包含 71 个设计模板，涵盖多个领域：
 
-### AI & LLM Platforms
-
-- Claude, Cohere, ElevenLabs, Minimax, Mistral AI, Ollama, OpenCode AI, Replicate, Runway, Together AI, VoltAgent, xAI
-
-### Developer Tools & IDEs
-
-- Cursor, Expo, Lovable, Raycast, Superhuman, Vercel, Warp
-
-### Backend, Database & DevOps
-
-- ClickHouse, Composio, HashiCorp, MongoDB, PostHog, Sanity, Sentry, Supabase
-
-### Productivity & SaaS
-
-- Cal.com, Intercom, Linear, Mintlify, Notion, Resend, Zapier
-
-### Design & Creative Tools
-
-- Airtable, Clay, Figma, Framer, Miro, Webflow
-
-### Fintech & Crypto
-
-- Binance, Coinbase, Kraken, Mastercard, Revolut, Stripe, Wise
-
-### E-commerce & Retail
-
-- Airbnb, Meta, Nike, Shopify, Starbucks
-
-### Media & Consumer Tech
-
-- Apple, HP, IBM, NVIDIA, Pinterest, PlayStation, SpaceX, Spotify, The Verge, Uber, Vodafone, WIRED
-
-### Automotive
-
-- BMW, BMW M, Bugatti, Ferrari, Lamborghini, Renault, Tesla
+| 分类 | 模板 |
+| --- | --- |
+| **AI & LLM Platforms** | Claude, Cohere, ElevenLabs, Minimax, Mistral AI, Ollama, OpenCode AI, Replicate, Runway, Together AI, VoltAgent, xAI |
+| **Developer Tools & IDEs** | Cursor, Expo, Lovable, Raycast, Superhuman, Vercel, Warp |
+| **Backend, Database & DevOps** | ClickHouse, Composio, HashiCorp, MongoDB, PostHog, Sanity, Sentry, Supabase |
+| **Productivity & SaaS** | Cal.com, Intercom, Linear, Mintlify, Notion, Resend, Zapier |
+| **Design & Creative Tools** | Airtable, Clay, Figma, Framer, Miro, Webflow |
+| **Fintech & Crypto** | Binance, Coinbase, Kraken, Mastercard, Revolut, Stripe, Wise |
+| **E-commerce & Retail** | Airbnb, Meta, Nike, Shopify, Starbucks |
+| **Media & Consumer Tech** | Apple, HP, IBM, NVIDIA, Pinterest, PlayStation, SpaceX, Spotify, The Verge, Uber, Vodafone, WIRED |
+| **Automotive** | BMW, BMW M, Bugatti, Ferrari, Lamborghini, Renault, Tesla |
 
 ## 使用方法
 
